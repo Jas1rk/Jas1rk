@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm jasir k</h1>
-<h3 align="center">A passionate Mernstack developer</h3>
+<h3 align="center">A Mernstack developer</h3>
+<p>As a passionate and dedicated self taught MERN stack developer, I thrive on creating dynamic and responsive web applications that provide exceptional user experiences. My journey in web development has equipped me with a comprehensive understanding of both front-end and back-end technologies, allowing me to build full-stack solutions that are efficient, scalable, and user-friendly.</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jas1rk&label=Profile%20views&color=0e75b6&style=flat" alt="jas1rk" /> </p>
 
