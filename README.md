@@ -1,5 +1,5 @@
 <h1 align="center">
-   <img src="https://github.com/AbleKSaju/AbleKSaju/blob/3da6d3fcccf52ca54f0a86873f119dd4ea6ac392/name.svg" alt="Jasir K" />
+   <img src="https://github.com/jas1rk/jas1rk/blob/3da6d3fcccf52ca54f0a86873f119dd4ea6ac392/name.svg" alt="Jasir K" />
 </h1>
 
 # 💫 About Me:
