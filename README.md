@@ -1,5 +1,5 @@
 <h1 align="center">
-   <img src="https://github.com/jas1rk/jas1rk/blob/3da6d3fcccf52ca54f0a86873f119dd4ea6ac392/name.svg" alt="Jasir K" />
+  <img src="https://raw.githubusercontent.com/Jas1rk/Jas1rk/main/name.svg" alt="Jasir K" width="300"/>
 </h1>
 
 # 💫 About Me:
