@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Jas1rk/Jas1rk/main/name.svg" alt="Jasir K" width="300"/>
+  <img src="https://raw.githubusercontent.com/Jas1rk/Jas1rk/main/name.svg" alt="Jasir K" width="400"/>
 </h1>
 
-# 💫 About Me:
-I am a Full-Stack Developer..<br>
+
+<h2 align="center">I am self-taught Full-stack Developer</h2>
 <p>I thrive on creating dynamic responsive web application. My journey in full-stack development has provided me understanding of both front-end and backend technologies</p>
 
 
